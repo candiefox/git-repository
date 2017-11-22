@@ -3,6 +3,10 @@ print(“Hello everybody;”)
 print(“Glad to see you;”)
 print(“Hello world;”)
 print(“Hello everybody;”)
+<<<<<<< HEAD
 print("add")
 print(another name)
 print(another name with commit)
+=======
+print("add")
+>>>>>>> d0ce07474a5ca202792b089b824292f7d39002e1
